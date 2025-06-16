@@ -1,0 +1,5 @@
+pymongo==4.13.0
+sentence-transformers==4.1.0
+torch==2.5.1
+google-cloud-aiplatform==1.94.0
+gradio==5.33.0

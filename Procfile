@@ -1,0 +1,1 @@
+web: python medical_chatbot_main_application.py
